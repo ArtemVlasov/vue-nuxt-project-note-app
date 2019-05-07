@@ -1,0 +1,22 @@
+{
+  "name": "vue_start",
+  "version": "1.0.0",
+  "description": "My best Nuxt.js project",
+  "author": "Eugene Nakoneschniy",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/router": "^1.3.2",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
